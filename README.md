@@ -4,10 +4,6 @@ The project idea is to build a website that helps people write about any topic o
 
 [Blog Website](https://alpha-atw.herokuapp.com/)
 
-## Members 
-* Taghreed Saeed .
-* Abdulrahman Aljafar
-* Wael Alhamad
 
 ## Initial Design 
 That describes our perspective for the website 
